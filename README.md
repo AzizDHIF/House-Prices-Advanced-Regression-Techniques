@@ -1,5 +1,5 @@
 # House-Prices-Advanced-Regression-Techniques
-This is my work that i have done in  a kaggle competition  to predict the price of a house based on 79 features.
+This is my work that i have done in  a kaggle competition   to predict the price of a house based on 79 features, my model got a log rmse of  0.1983 (log RMSE is the RMSE between the logarithm of the predicted value and the logarithm of the observed sales price). 
 
 Here's a brief version of what you'll find in the data description file.
 
